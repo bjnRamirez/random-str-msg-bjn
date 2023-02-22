@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-bjn",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Benjamin Ramirez <bjnramirezbjn@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjnRamirez/random-str-msg-bjn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bjnRamirez/random-str-msg-bjn/issues"
+  },
+  "homepage": "https://github.com/bjnRamirez/random-str-msg-bjn#readme",
+  "bin": {
+    "random-str-msg-bjn": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
